@@ -36,7 +36,7 @@
     grid-column-end: span 2;
     position: relative;
     visibility:hidden;
-    background-color:solid yellow;
+    background-color:solid rgb(171, 42, 158);
     outline:1px solid transparent; /* fix for jagged edges in FF on hover transition */
   }
  
@@ -98,7 +98,7 @@
   }
 /*** HEX HOVER *****************************************************************/
   .hexLink:hover p, .hexLink:focus p{
-    background-color: #ffb103c2
+    background-color: #fffefbed
   }
 
   #center-letter.hexLink:hover p, #center-letter.hexLink:focus p{
@@ -135,7 +135,7 @@
     font-size: 1.5rem;
     font-weight: 100;
     height:6vw;
-    color: rgb(255, 187, 0);
+    color: rgba(221, 0, 255, 0.76);
   
   }
   .cursor {
