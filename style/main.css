@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #ffffff;
-  color: #9040ba;
+  background: #dbceea;
+  color: #4f4b38;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -53,7 +53,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #bbada0;
+  background: #7851a2;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -90,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Оноо"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Дээд"; }
 
 p {
   margin-top: 0;
@@ -149,7 +149,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #bbada0;
+  background: #7851a2;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -220,7 +220,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: rgba(156, 48, 175, 0.852); }
+  background: #9366ad; }
   .grid-cell:last-child {
     margin-right: 0; }
 
@@ -574,7 +574,7 @@ hr {
 
 .restart-button {
   display: inline-block;
-  background: #8f7a66;
+  background: #7851a2;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
